@@ -113,8 +113,8 @@ chmod +x *.sh
 ## 📸 Screenshots
 
 *(Add your screenshots in an `assets/` folder and link here)*  
-> ![Admin Panel](assets/admin-panel.png)  
-> ![User Quiz](assets/user-panel.png)
+> ![Admin Panel](LinuxQuizProject/admin-img)  
+> ![User Quiz](LinuxQuizProject/user-img)
 
 ---
 
