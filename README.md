@@ -39,8 +39,8 @@ The system is built using:
 | Component        | Tool                    |
 |------------------|-------------------------|
 | Scripting        | Bash (Shell Script)     |
-| Database         | MySQL / MariaDB         |
-| OS Compatibility | Linux (Ubuntu/Fedora)   |
+| Database         | MySQL                   |
+| OS Compatibility | Linux (Ubuntu)          |
 | GUI Support      | Dialog / Zenity (future)|
 
 ---
